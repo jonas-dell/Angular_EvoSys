@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PHWyN5etZMBGNJglZNcu5lZVkwcJqKXKjkDQPLPxeoc=",
+  "Source": "EvoSystems.API",
+  "BasePath": "_content/EvoSystems.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

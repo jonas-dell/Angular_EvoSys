@@ -1,0 +1,23 @@
+<h1 mat-dialog-title>Funcionário</h1>
+<form class="example-form" [formGroup]="funcionarioForm">
+
+    <mat-form-field class="example-full-width">
+        <mat-label>Nome</mat-label>
+        <input matInput placeholder="Nome" formControlName="nome" name="nome">
+    </mat-form-field>
+
+    <mat-form-field class="example-full-width">
+        <mat-label>Foto</mat-label>
+        <input matInput placeholder="foto" formControlName="foto" name="foto">
+    </mat-form-field>
+
+    <mat-form-field class="example-full-width">
+        <mat-label>RG</mat-label>
+        <input matInput placeholder="rg" formControlName="rg" name="rg">
+    </mat-form-field>
+
+    <div mat-dialog-actions>
+        <button mat-button (click)="cancel()">Cancel</button>
+        <button mat-raised-button color="primary" [disabled]="!funcionarioForm.valid" (click)="salvar()">Save</button>
+    </div>
+</form>

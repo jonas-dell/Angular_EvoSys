@@ -1,0 +1,17 @@
+table {
+    width: 100%;
+}
+
+.acoes-buttons {
+    display: flex;
+    justify-content: flex-end;
+    gap: 2px;
+}
+
+.color {
+    color: rgba(61, 81, 181, 0.8);
+}
+
+table {
+    width: 100%;
+}

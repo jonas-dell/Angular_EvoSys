@@ -1,0 +1,51 @@
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystem.Infra\EvoSystems.Infra\bin\Debug\net7.0\EvoSystems.Infra.deps.json
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystem.Infra\EvoSystems.Infra\bin\Debug\net7.0\EvoSystems.Infra.runtimeconfig.json
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystem.Infra\EvoSystems.Infra\bin\Debug\net7.0\EvoSystems.Infra.dll
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystem.Infra\EvoSystems.Infra\bin\Debug\net7.0\EvoSystems.Infra.pdb
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystem.Infra\EvoSystems.Infra\bin\Debug\net7.0\EvoSystems.Domain.dll
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystem.Infra\EvoSystems.Infra\bin\Debug\net7.0\EvoSystems.Domain.pdb
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystem.Infra\EvoSystems.Infra\obj\Debug\net7.0\EvoSystems.Infra.csproj.AssemblyReference.cache
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystem.Infra\EvoSystems.Infra\obj\Debug\net7.0\EvoSystems.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystem.Infra\EvoSystems.Infra\obj\Debug\net7.0\EvoSystems.Infra.AssemblyInfoInputs.cache
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystem.Infra\EvoSystems.Infra\obj\Debug\net7.0\EvoSystems.Infra.AssemblyInfo.cs
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystem.Infra\EvoSystems.Infra\obj\Debug\net7.0\EvoSystems.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystem.Infra\EvoSystems.Infra\obj\Debug\net7.0\EvoSystems.Infra.csproj.CopyComplete
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystem.Infra\EvoSystems.Infra\obj\Debug\net7.0\EvoSystems.Infra.dll
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystem.Infra\EvoSystems.Infra\obj\Debug\net7.0\refint\EvoSystems.Infra.dll
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystem.Infra\EvoSystems.Infra\obj\Debug\net7.0\EvoSystems.Infra.pdb
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystem.Infra\EvoSystems.Infra\obj\Debug\net7.0\EvoSystems.Infra.genruntimeconfig.cache
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystem.Infra\EvoSystems.Infra\obj\Debug\net7.0\ref\EvoSystems.Infra.dll
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Infra\bin\Debug\net7.0\EvoSystems.Infra.deps.json
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Infra\bin\Debug\net7.0\EvoSystems.Infra.runtimeconfig.json
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Infra\bin\Debug\net7.0\EvoSystems.Infra.dll
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Infra\bin\Debug\net7.0\EvoSystems.Infra.pdb
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Infra\bin\Debug\net7.0\EvoSystems.Domain.dll
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Infra\bin\Debug\net7.0\EvoSystems.Domain.pdb
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Infra\obj\Debug\net7.0\EvoSystems.Infra.csproj.AssemblyReference.cache
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Infra\obj\Debug\net7.0\EvoSystems.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Infra\obj\Debug\net7.0\EvoSystems.Infra.AssemblyInfoInputs.cache
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Infra\obj\Debug\net7.0\EvoSystems.Infra.AssemblyInfo.cs
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Infra\obj\Debug\net7.0\EvoSystems.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Infra\obj\Debug\net7.0\EvoSystems.Infra.csproj.CopyComplete
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Infra\obj\Debug\net7.0\EvoSystems.Infra.dll
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Infra\obj\Debug\net7.0\refint\EvoSystems.Infra.dll
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Infra\obj\Debug\net7.0\EvoSystems.Infra.pdb
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Infra\obj\Debug\net7.0\EvoSystems.Infra.genruntimeconfig.cache
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Infra\obj\Debug\net7.0\ref\EvoSystems.Infra.dll
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Infra\bin\Debug\net7.0\EvoSystems.Infra.deps.json
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Infra\bin\Debug\net7.0\EvoSystems.Infra.runtimeconfig.json
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Infra\bin\Debug\net7.0\EvoSystems.Infra.dll
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Infra\bin\Debug\net7.0\EvoSystems.Infra.pdb
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Infra\bin\Debug\net7.0\EvoSystems.Domain.dll
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Infra\bin\Debug\net7.0\EvoSystems.Domain.pdb
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Infra\obj\Debug\net7.0\EvoSystems.Infra.csproj.AssemblyReference.cache
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Infra\obj\Debug\net7.0\EvoSystems.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Infra\obj\Debug\net7.0\EvoSystems.Infra.AssemblyInfoInputs.cache
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Infra\obj\Debug\net7.0\EvoSystems.Infra.AssemblyInfo.cs
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Infra\obj\Debug\net7.0\EvoSystems.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Infra\obj\Debug\net7.0\EvoSystems.Infra.csproj.CopyComplete
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Infra\obj\Debug\net7.0\EvoSystems.Infra.dll
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Infra\obj\Debug\net7.0\refint\EvoSystems.Infra.dll
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Infra\obj\Debug\net7.0\EvoSystems.Infra.pdb
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Infra\obj\Debug\net7.0\EvoSystems.Infra.genruntimeconfig.cache
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Infra\obj\Debug\net7.0\ref\EvoSystems.Infra.dll

@@ -1,0 +1,9 @@
+.mat-toolbar > p{
+    margin: 10px;
+    font-size: 12px;
+}
+
+
+.mat-toolbar {
+    height: 40px;
+}

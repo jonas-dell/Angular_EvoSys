@@ -1,0 +1,23 @@
+<h1 mat-dialog-title>Departamento</h1>
+<form class="example-form" [formGroup]="departamentoForm">
+
+    <mat-form-field class="example-full-width">
+        <mat-label>Nome</mat-label>
+        <input matInput placeholder="Nome" formControlName="nome" name="nome">
+    </mat-form-field>
+
+    <mat-form-field class="example-full-width">
+        <mat-label>Sigla</mat-label>
+        <input matInput placeholder="Sigla" formControlName="sigla" name="sigla">
+    </mat-form-field>
+
+
+    <button mat-raised-button color="primary" (click)="addFuncionario()" *ngIf="departamentoForm.value.id > 0"><mat-icon>add</mat-icon>Novo Funcionario</button>
+
+    <funcionario-grid [departamentoId]="departamentoForm.value.id" *ngIf="departamentoForm.value.id > 0"></funcionario-grid>
+
+    <div mat-dialog-actions>
+        <button mat-button (click)="cancel()">Cancel</button>
+        <button mat-raised-button color="primary" [disabled]="!departamentoForm.valid" (click)="salvar()">Save</button>
+    </div>
+</form>

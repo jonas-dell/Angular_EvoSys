@@ -1,0 +1,36 @@
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystems.Domain\EvoSystems.Domain\bin\Debug\net7.0\EvoSystems.Domain.deps.json
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystems.Domain\EvoSystems.Domain\bin\Debug\net7.0\EvoSystems.Domain.dll
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystems.Domain\EvoSystems.Domain\bin\Debug\net7.0\EvoSystems.Domain.pdb
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystems.Domain\EvoSystems.Domain\obj\Debug\net7.0\EvoSystems.Domain.csproj.AssemblyReference.cache
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystems.Domain\EvoSystems.Domain\obj\Debug\net7.0\EvoSystems.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystems.Domain\EvoSystems.Domain\obj\Debug\net7.0\EvoSystems.Domain.AssemblyInfoInputs.cache
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystems.Domain\EvoSystems.Domain\obj\Debug\net7.0\EvoSystems.Domain.AssemblyInfo.cs
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystems.Domain\EvoSystems.Domain\obj\Debug\net7.0\EvoSystems.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystems.Domain\EvoSystems.Domain\obj\Debug\net7.0\EvoSystems.Domain.dll
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystems.Domain\EvoSystems.Domain\obj\Debug\net7.0\refint\EvoSystems.Domain.dll
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystems.Domain\EvoSystems.Domain\obj\Debug\net7.0\EvoSystems.Domain.pdb
+C:\Users\Jonas\evo_systems\src\evosystems.api\EvoSystems.Domain\EvoSystems.Domain\obj\Debug\net7.0\ref\EvoSystems.Domain.dll
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Domain\bin\Debug\net7.0\EvoSystems.Domain.deps.json
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Domain\bin\Debug\net7.0\EvoSystems.Domain.dll
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Domain\bin\Debug\net7.0\EvoSystems.Domain.pdb
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Domain\obj\Debug\net7.0\EvoSystems.Domain.csproj.AssemblyReference.cache
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Domain\obj\Debug\net7.0\EvoSystems.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Domain\obj\Debug\net7.0\EvoSystems.Domain.AssemblyInfoInputs.cache
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Domain\obj\Debug\net7.0\EvoSystems.Domain.AssemblyInfo.cs
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Domain\obj\Debug\net7.0\EvoSystems.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Domain\obj\Debug\net7.0\EvoSystems.Domain.dll
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Domain\obj\Debug\net7.0\refint\EvoSystems.Domain.dll
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Domain\obj\Debug\net7.0\EvoSystems.Domain.pdb
+C:\Users\Jonas\evo_systems - backup\services\EvoSystems\src\EVOSYS.Domain\obj\Debug\net7.0\ref\EvoSystems.Domain.dll
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Domain\bin\Debug\net7.0\EvoSystems.Domain.deps.json
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Domain\bin\Debug\net7.0\EvoSystems.Domain.dll
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Domain\bin\Debug\net7.0\EvoSystems.Domain.pdb
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Domain\obj\Debug\net7.0\EvoSystems.Domain.csproj.AssemblyReference.cache
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Domain\obj\Debug\net7.0\EvoSystems.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Domain\obj\Debug\net7.0\EvoSystems.Domain.AssemblyInfoInputs.cache
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Domain\obj\Debug\net7.0\EvoSystems.Domain.AssemblyInfo.cs
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Domain\obj\Debug\net7.0\EvoSystems.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Domain\obj\Debug\net7.0\EvoSystems.Domain.dll
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Domain\obj\Debug\net7.0\refint\EvoSystems.Domain.dll
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Domain\obj\Debug\net7.0\EvoSystems.Domain.pdb
+C:\Users\Jonas\evo_systems\services\EvoSystems\src\EVOSYS.Domain\obj\Debug\net7.0\ref\EvoSystems.Domain.dll
